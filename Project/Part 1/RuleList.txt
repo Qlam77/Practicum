@@ -1,0 +1,7 @@
+ip_src 192.168.1.4
+ip_src 192.168.1.5
+tcp_dport 8000
+tcp_sport 8000
+udp_dport 22
+udp_sport 22
+ip_dst www.google.ca
