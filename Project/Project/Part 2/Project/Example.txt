@@ -1,0 +1,11 @@
+ALT F4
+CTRL A
+CTRL-ALT DELETE
+CTRL-SHIFT S
+DEFAULT_DELAY [Millisecond]
+DELAY [Millisecond]
+GUI D
+REM Random Remark
+SHIFT SPACE
+STRING Hello worldd
+REPEAT
